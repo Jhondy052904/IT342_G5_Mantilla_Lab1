@@ -24,10 +24,10 @@
 - [ ] (Future implementation)
 
 ## 📄 Documentation
-- [ ] Create FRS document
-- [ ] Add web application screenshots
-- [ ] Export FRS to PDF
-- [ ] Place PDF in /docs folder
+- [✅] Create FRS document
+- [✅] Add web application screenshots
+- [✅] Export FRS to PDF
+- [✅] Place PDF in /docs folder
 - [ ] Update README with project details
 
 ## ✅ Submission
@@ -42,4 +42,5 @@
 - [ ] Web app runs without errors
 - [ ] All documentation is complete
 - [ ] Repository structure matches requirements
+
 
